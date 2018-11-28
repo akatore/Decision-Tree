@@ -1,7 +1,7 @@
-#Decision Tree Classifier
+# Decision Tree Classifier
 This is the artical for building the decision tree from the given data.
 
-##Assignment 2 :
+## Assignment 2 :
 A dataset collected in a cosmetics shop showing details of customers and whether or not they
 responded to a special offer to buy a new lip-stick is shown in table below. Use this dataset to
 build a decision tree, with Buys as the target variable, to help in buying lip-sticks in the future.
